@@ -10,7 +10,7 @@ Kasi2africa is an E-commerce app which deals with online shopping and many more 
 
 In the project directory, you can run:
 
-The app is built using `Java & kotlin` so you can run this project on Android studio and Visual Studio code. The Fragments will reload if you make edits.
+The app is built using `kotlin` so you can run this project on Android studio and Visual Studio code. The Fragments will reload if you make edits.
 You will also see any lint errors in the console.
 
 ## Built With
