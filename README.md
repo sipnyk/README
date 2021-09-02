@@ -4,7 +4,7 @@ Kasi2africa is an E-commerce app which deals with online shopping and many more 
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<Kasi2Africa> Repo")
+- [Repo](> "<Kasi2Africa> Repo")
 
 ## Available Commands
 
@@ -26,7 +26,7 @@ You will also see any lint errors in the console.
 
 **Sipho Ngobeni**
 
-- [Profile](https://github.com/rohit19060 "Sipho Ngobeni")
+- [Profile](https://github.com/sipnyk"Sipho Ngobeni")
 - [Email](mailto:sipho.ngo333@gmail.com?subject=Hi "sipho.ngo333@gmail.com")
 - [Linkedln](https://www.linkedin.com/in/sipho-ngobeni-b99b96129
 "Welcome")
