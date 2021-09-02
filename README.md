@@ -4,7 +4,7 @@ Kasi2africa is an E-commerce app which deals with online shopping and many more 
 
 ## Links
 
-- [Repo](> "<Kasi2Africa> Repo")
+- [Repo](https://github.com/sipnyk/README.git> "<Kasi2Africa> Repo")
 
 ## Available Commands
 
@@ -35,4 +35,3 @@ You will also see any lint errors in the console.
 
 Contributions, issues, and feature requests are welcome!
 
-Give a ⭐️ if you like this project!
