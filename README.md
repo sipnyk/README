@@ -26,7 +26,7 @@ You will also see any lint errors in the console.
 
 **Sipho Ngobeni**
 
-- [Profile](https://github.com/sipnyk"Sipho Ngobeni")
+- [Profile](https://github.com/Sipnyk "Sipho Ngobeni")
 - [Email](mailto:sipho.ngo333@gmail.com?subject=Hi "sipho.ngo333@gmail.com")
 - [Linkedln](https://www.linkedin.com/in/sipho-ngobeni-b99b96129
 "Welcome")
